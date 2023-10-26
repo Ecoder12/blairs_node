@@ -134,8 +134,8 @@ understandings of the parties regarding the subject matter of this Authorization
 to or waiver of this Repair Authorization or its terms and conditions shall be binding upon either party unless made in 
 writing and signed by both you and an authorized manager of Tommy Blair’s.
 
-      I authorize any and all supplements payable direct to Tommy Blair’s Inc dba Quality Collision Repair.  I authorize Tommy Blair’s Downtown
- Car Care LLC POWER OF ATTORNEY TO SIGN supplement payments.
+      I authorize any and all supplements payable direct to Tommy Blair’s Inc dba Quality Collision Repair.  I authorize Tommy Blair’s
+POWER OF ATTORNEY TO SIGN supplement payments.
 
 
 SIGNATURE: ${content['your-first-name']} ${content['your-last-name']}
